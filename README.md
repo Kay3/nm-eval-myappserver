@@ -15,4 +15,4 @@ Get the Code Either clone this repository or fork it on GitHub and clone your fo
 - npm install
 - node app.js
 
-The server will atart and will be listening on port 7000
+The server will start and will be listening on port 7000
